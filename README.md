@@ -1,4 +1,4 @@
-# java-se-tutorial
+# Java SE Tutorial
 
 Examples and Exercises from The Java Tutorials (https://docs.oracle.com/javase/tutorial/)
 
